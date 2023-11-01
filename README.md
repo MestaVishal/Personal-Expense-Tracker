@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Personal Expense Tracker</title>
-</head>
 <body>
 
 <h1>Personal Expense Tracker</h1>
